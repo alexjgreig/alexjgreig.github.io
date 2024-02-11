@@ -1,0 +1,12 @@
+name = "Alex Greig"
+description = "Personal Website"
+
+tags = ["blog", "responsive", "minimal", "dark", "light"]
+features = ["blog", "sass", "dark"]
+
+min_version = "0.87.0"
+
+# If the theme has a single author
+[author]
+    name = "Alex Greig"
+    homepage = "https://www.alexgreig.com/"
