@@ -1,8 +1,8 @@
 ---
-title: Template
+title: Useful Markdown Functions
 date: 2024-02-13
 author: Alex Greig
-description: Template
+description: Markdown Uses
 ---
 
 ## Paragraph
