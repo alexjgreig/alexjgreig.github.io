@@ -1,24 +1,24 @@
 ---
 title: About
 description: 'Hugo, the world''s fastest framework for building websites'
-author: Hugo Authors
+author: Alex Greig
 toc: false
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Alex is a highly driven individual with a desire to succeed in all areas. High attention to detail and ability to make quick, effective decisions. Able to discern complex concepts and apply new knowledge to solve problems and achieve requested outcomes. Experienced with equity derivatives, their modeling and risk management. In addition, Alex has performed extensive market analysis and backtesting, using python as the primary language of choice. 
 
-Hugo makes use of a variety of open source projects including:
+Some projects that I have created personally are below:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://github.com/alexjgreig/riverina
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+A systematic investment system and FIX Engine written in Rust that utilises realtime FX price data and regression models for order execution and backtesting. 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* https://github.com/alexjgreig/Nodepaths
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+A distributed communication application built upon a wireless ad-hoc network using mesh topology, made with the Rust programming language. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* https://github.com/alexjgreig/converge
+
+Converge is a decentralised blockchain for sophisticated asset management and cross-business transactions.
+
+*** All opinions expressed are solely my own and do not express the views or opinions of any employer that I am affliated with. Nothing on this website should be taken as investment advice and you should do your own research before making any investment decisions. ***
