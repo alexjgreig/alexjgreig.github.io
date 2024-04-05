@@ -13,7 +13,7 @@ Due to the breakdown of correlation between US and China log returns, investors 
 
 ![Landscape](2.jpeg)
 
-# Upcoming shortly
+# Below Analysis Available Soon
 
 ## Inverted Skew, Implied Correlation and Other Volatility Dynamics
 
