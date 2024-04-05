@@ -13,4 +13,12 @@ Due to the breakdown of correlation between US and China log returns, investors 
 
 ![Landscape](2.jpeg)
 
+# Upcoming shortly
+
+## Inverted Skew, Implied Correlation and Other Volatility Dynamics
+
+## Trend Reversion Indicated by Liquidity Compositional Shift from Short to Long Term Market Participants
+
+## Market Efficiency Analysis through Pairwise-Correlations and Asset Returns Dispersion
+
 *** All opinions expressed are solely my own and do not express the views or opinions of any employer that I am affliated with. Nothing on this website should be taken as investment advice and you should do your own research before making any investment decisions. ***
