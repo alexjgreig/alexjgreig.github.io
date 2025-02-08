@@ -9,7 +9,7 @@ description: Investigation into China's Economy and Market Environment
 
 China's market has become dislocated as investors retract capital due to fears of regulation in light of the US, China tensions. This presents an opportunity to buy undervalued, quality businesses with strengthing fundamentals and cashflow growth; with earnings season presenting a catalyst for investor reevaluation of the market. In addition, more favourable policy surrounding stimulus measures will aid investor confidence in the market's stablisation and will actualise a deleveraging of businesses to a more robust state.
 
-Due to the breakdown of correlation between US and China log returns, investors can use China's market for uncorrelated investment with US equities, minimising some portfolio volatility with correct position sizing. 
+Due to the breakdown of correlation between US and China returns, investors can use China's market for uncorrelated investment with US equities, minimising some portfolio volatility with correct position sizing. 
 
 ![Landscape](2.jpeg)
 
