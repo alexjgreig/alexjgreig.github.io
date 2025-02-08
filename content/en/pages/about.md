@@ -1,6 +1,6 @@
 ---
 title: About
-description: Alex Greig
+description: 'Technology and Markets'
 author: Alex Greig
 toc: false
 ---
