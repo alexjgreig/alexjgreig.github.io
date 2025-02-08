@@ -21,7 +21,6 @@ Due to the breakdown of correlation between US and China log returns, investors 
 
 - Market Efficiency Analysis through Pairwise-Correlations and Asset Returns Dispersion
 
-
-
+## Disclaimer
 
 *** All opinions expressed are solely my own and do not express the views or opinions of any employer that I am affliated with. Nothing on this website should be taken as investment advice and you should do your own research before making any investment decisions. ***
